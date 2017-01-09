@@ -21,7 +21,6 @@
     
 - C#
     - [C# 스터디](http://csharpstudy.com/)
-    - [인사이드 C#](http://frostfire.tistory.com/51)
 
 - Java
     - [점프 투 자바](https://wikidocs.net/book/31)
@@ -35,9 +34,6 @@
 
 - Swift
     - [스위프트 언어 개발문서](http://swift.leantra.kr/)
-
-- Kotlin
-    - 
 
 ### 수학
 - [공돌이의 수학 정리 노트](https://wikidocs.net/book/563)
