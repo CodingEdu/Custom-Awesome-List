@@ -38,20 +38,6 @@
 ### 수학
 - [공돌이의 수학 정리 노트](https://wikidocs.net/book/563)
 
-### 운영체제
-
-### 컴퓨터 구조
-
-### 자료구조
-
-### 알고리즘
-
-### 컴파일러
-
-### PL
-
-## 커뮤니티
-
 ### 프로그래밍 갤러리
 - [프로그래밍 갤러리 메타 리스트](http://gall.dcinside.com/board/view/?id=programming&no=668625)
 
